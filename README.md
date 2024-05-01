@@ -3,7 +3,7 @@
 
 ### 安装
 
-1. 【创建仓库】点击[通过模板创建仓库](https://github.com/new?template_name=Gmeek-template&template_owner=Meekdai)，建议仓库名称为`XXX.github.io`，其中`XXX`为你的github用户名。
+1. 【创建仓库】点击[通过模板创建仓库](https://github.com/new?template_name=Gmeek-template&template_owner=6662024)，建议仓库名称为`XXX.github.io`，其中`XXX`为你的github用户名。
 
 2. 【启用Pages】在本仓库的`Settings`中`Pages->Build and deployment->Source`下面选择`Github Actions`。
 
