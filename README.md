@@ -14,4 +14,4 @@
 通过Actions->build Gmeek->Run workflow->里面的按钮全局重新生成一次
 ```
 
-### Powered by :heart: [Gmeek](https://github.com/6662024/Gmeek)
+### Powered by :heart: [6662024](https://github.com/6662024/Gmeek)
